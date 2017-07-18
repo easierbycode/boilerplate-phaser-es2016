@@ -524,9 +524,6 @@ var Player = exports.Player = function (_Phaser$Sprite) {
 
         game.add.existing(_this);
         game.physics.arcade.enable(_this);
-
-        _this.anchor.setTo(0.5);
-
         return _this;
     }
 
