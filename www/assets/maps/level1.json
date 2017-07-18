@@ -1,0 +1,50 @@
+{
+  "duration": 35,
+  "groups": [
+    "bowsers"
+  ],
+  "enemies": 
+  [
+    {
+      "time": 1,
+      "x": 0.05,
+      "health": 12,
+      "speedX": 40, 
+      "speedY": 100,
+      "key": "bowser",
+      "scale": 3,
+      "type": "bowsers"
+    },
+    {
+      "time": 2,
+      "x": 0.1,
+      "health": 6,
+      "speedX": 100, 
+      "speedY": 100,
+      "key": "bowser",
+      "scale": 1,
+      "type": "bowsers"
+    },
+    {
+      "time": 3,
+      "x": 0.1,
+      "health": 6,
+      "speedX": 100, 
+      "speedY": 100,
+      "key": "bowser",
+      "scale": 1,
+      "type": "bowsers"
+    },
+    {
+      "time": 4,
+      "x": 0.1,
+      "health": 6,
+      "speedX": 100, 
+      "speedY": 100,
+      "key": "bowser",
+      "scale": 1,
+      "type": "bowsers"
+    }
+    
+  ]
+}
